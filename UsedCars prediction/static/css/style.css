@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-color{
+	background-color: rgba(21, 61, 87, 0.726);
+}
+
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
+.col-10{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
